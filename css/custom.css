@@ -13,9 +13,9 @@ body {
     overflow-x: hidden;
     background: #ffffff;
     min-height: 100vh;
-    font-family: "Open Sans", sans-serif;
+
     .footer {
-        z-index: 1;
+        z-index: -3;
         --footer-background: #E9E6E4;
         display: grid;
         position: relative;
