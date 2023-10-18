@@ -12,7 +12,7 @@ Portfolio web minimalista, creado con HTML, CSS y JavaScript, diseñado para res
 
 ## Uso
 
-Si deseas ver mi portfolio, simplemente ve al siguiente enlace: [https://www.franciscomontenegro.com.ar](franciscomontenegro.com.ar).
+Si deseas ver mi portfolio, simplemente ve al siguiente enlace: [franciscomontenegro.com.ar](https://www.franciscomontenegro.com.ar).
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
 
